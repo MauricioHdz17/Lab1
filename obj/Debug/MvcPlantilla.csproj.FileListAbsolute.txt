@@ -8,3 +8,8 @@ C:\Users\wm\MVCPlantilla\bin\MvcPlantilla.pdb
 C:\Users\wm\MVCPlantilla\obj\Debug\MvcPlantilla.csprojResolveAssemblyReference.cache
 C:\Users\wm\MVCPlantilla\obj\Debug\MvcPlantilla.dll
 C:\Users\wm\MVCPlantilla\obj\Debug\MvcPlantilla.pdb
+C:\Lab1\bin\MvcPlantilla.dll
+C:\Lab1\bin\MvcPlantilla.pdb
+C:\Lab1\obj\Debug\MvcPlantilla.csprojResolveAssemblyReference.cache
+C:\Lab1\obj\Debug\MvcPlantilla.dll
+C:\Lab1\obj\Debug\MvcPlantilla.pdb

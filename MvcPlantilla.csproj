@@ -78,6 +78,7 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Views\Home\Index.aspx" />
+    <Content Include="Views\Video\AgregarVideo.aspx" />
     <Content Include="Views\Video\Eliminar.aspx" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
