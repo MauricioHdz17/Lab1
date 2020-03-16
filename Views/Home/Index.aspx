@@ -13,7 +13,7 @@
      <img src="https://scontent.fntr6-1.fna.fbcdn.net/v/t1.0-9/84827818_10156556900877443_1000852827372781568_n.png?_nc_cat=107&_nc_ohc=C8ujC0zAB_AAX8DbwDp&_nc_ht=scontent.fntr6-1.fna&oh=f08a18a70ed7f36f26af264ba57561e9&oe=5EBCBAC4https://scontent.fntr6-1.fna.fbcdn.net/v/t1.0-9/84827818_10156556900877443_1000852827372781568_n.png?_nc_cat=107&_nc_ohc=C8ujC0zAB_AAX8DbwDp&_nc_ht=scontent.fntr6-1.fna&oh=f08a18a70ed7f36f26af264ba57561e9&oe=5EBCBAC4"/>
     <hr />
     <h1>Opciones</h1>
-    <a href="/Video/VerVideos">Ver Videos</a>
+    <a href="/Video/Index">Ver Videos</a>
     <hr />
     <a href="/Video/AgregarVideo">Agregar Videos</a>
     <hr />
